@@ -1,0 +1,8 @@
+{
+  "name": "agent-skills",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "install": "node scripts/link-skills.cjs"
+  }
+}
